@@ -15,7 +15,13 @@ An interactive product card showcasing various Nike shoe models with animations.
 - HTML5
 - CSS3
 
-## Installation
-1. Clone the repository:
+
+## 🔗 Connect with Me!
+💼[LinkedIn](https://www.linkedin.com/in/priyankpvora/)
+🌟[GitHub](https://github.com/priyankpriyank)
+🌐[Portfolio Website](https://priyank-vora.netlify.app/)
+
+### Steps  
+1. Clone the repository:  
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/priyankpriyank/Nike-Product-Card>

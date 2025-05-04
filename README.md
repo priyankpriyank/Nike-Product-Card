@@ -2,8 +2,6 @@
 # **6. Nike Product Card**
 <small>&copy; Priyank Vora - 2024</small>
 
-# Nike Product Card
-
 An interactive product card showcasing various Nike shoe models with animations.
 
 ## Features
